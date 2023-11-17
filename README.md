@@ -5,3 +5,5 @@ This github will be a place for me to upload all code I have written for anyone 
 If you wish to contact me please use my email: georgescu.t.andrei@gmail.com.
 
 If you are not here from the github link in my resume please give my resume a read if you are interested.
+
+Also feel free to check out my LinkedIn: www.linkedin.com/in/andrei-georgescu-0051762a0.
