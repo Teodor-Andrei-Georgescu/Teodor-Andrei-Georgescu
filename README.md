@@ -1,6 +1,6 @@
 Hi, I’m Teodor Andrei Georgescu and I am currently a 4th year Computer Science and Health Information Science student at the University of Victoria, Canada.
 
-This github will be a place for me to upload all code I have written for anyone interested to view. (https://github.com/Teodor-Andrei-Georgescu/Projects)
+This github will be a place for me to upload all code I have written for anyone interested to view. ([https://github.com/Teodor-Andrei-Georgescu/Projects](https://github.com/Teodor-Andrei-Georgescu?tab=repositories))
 
 If you wish to contact me please use my email: georgescu.t.andrei@gmail.com.
 
